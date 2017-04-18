@@ -14467,7 +14467,7 @@ function(e, t, n) {
             default.createElement("div", null, u.
             default.createElement("header", null, u.
             default.createElement("img", {
-                    src: "http://omfmbv825.bkt.clouddn.com/2_02.png",
+                    src: "",
                     alt: "person img",
                     className: "person"
                 }), u.
@@ -14900,7 +14900,7 @@ function(e, t, n) {
                 },
                 u.
             default.createElement("img", {
-                    src: "./dist/face.png",
+                    src: "./dist/touxiang.jpg",
                     alt: "person img",
                     className: "person"
                 }), u.
